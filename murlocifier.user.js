@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         Murlocifier
-// @namespace    http://tampermonkey.net/
 // @version      1
 // @description  Simple script to use Blizzards 2019 April Fools code to murlocify all websites a user goes to.
+// @description  https://news.blizzard.com/en-us/blizzard/22940237/april-fools-nerglish-translator-available-now
 // @author       Valsh
 // @include      *
 // @grant        none
